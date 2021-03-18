@@ -5,4 +5,4 @@
 ### Tokenization
 #### Articles/Blogs/Videos
 
-- []
+- [Comprehensive notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Tokenization.ipynb)
