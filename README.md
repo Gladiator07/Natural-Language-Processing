@@ -1,5 +1,8 @@
 # Natural Language Processing (from scratch to GPT-3)
 
+## Basic stuff 
+- [Cosine Similarity](https://cmry.github.io/notes/euclidean-v-cosine)
+
 ## Text Processing
 
 ### Tokenization
