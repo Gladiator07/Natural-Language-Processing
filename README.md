@@ -1,7 +1,7 @@
 # Natural Language Processing (from scratch to GPT-3)
 
 ## Basic stuff 
-### Cosine Similarity
+#### Cosine Similarity
 - [Cosine Similarity vs Euclidean distance](https://cmry.github.io/notes/euclidean-v-cosine)
 - https://www.machinelearningplus.com/nlp/cosine-similarity/
 
@@ -9,7 +9,7 @@
 ## Text Processing
 
 ### Tokenization
-
+- [Subword Tokenization](https://www.thoughtvector.io/blog/subword-tokenization/)
 - [Comprehensive notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Tokenization.ipynb)
 
 
