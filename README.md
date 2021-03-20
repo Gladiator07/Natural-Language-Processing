@@ -9,7 +9,10 @@
 ## Text Processing
 
 ### Tokenization
+- [A comprehensive article on tokanization](https://blog.floydhub.com/tokenization-nlp/)
 - [Subword Tokenization](https://www.thoughtvector.io/blog/subword-tokenization/)
+- [Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
+- [Byte Pair Encoding - Paper](https://arxiv.org/pdf/1508.07909v5.pdf)
 - [Comprehensive notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Tokenization.ipynb)
 
 
