@@ -47,3 +47,11 @@
 ---
 
 ### TF-IDF 
+#### Videos
+- [Krish Naik](https://www.youtube.com/watch?v=D2V1okCEsiE&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=9)
+
+#### Articles
+- [Medium](https://medium.com/analytics-vidhya/tf-idf-term-frequency-technique-easiest-explanation-for-text-classification-in-nlp-with-code-8ca3912e58c3)
+  
+#### Code
+- [Implementation (scratch + sklearn)](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/TF-IDF.ipynb)
