@@ -55,3 +55,11 @@
   
 #### Code
 - [Implementation (scratch + sklearn)](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/TF-IDF.ipynb)
+
+---
+
+#### Great you are now done with some of the basics, time to implement a basic project
+
+### SpamClassifier Project
+- [Video](https://www.youtube.com/watch?v=fA5TSFELkC0&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=11)
+- [Code]()
