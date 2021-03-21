@@ -3,8 +3,8 @@
 ## Basic stuff 
 #### Cosine Similarity
 - [Cosine Similarity vs Euclidean distance](https://cmry.github.io/notes/euclidean-v-cosine)
-- https://www.machinelearningplus.com/nlp/cosine-similarity/
 
+---
 
 ## Text Processing
 
@@ -15,6 +15,7 @@
 - [Byte Pair Encoding - Paper](https://arxiv.org/pdf/1508.07909v5.pdf)
 - [Comprehensive notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Tokenization.ipynb)
 
+---
 
 ### Stemming and Lemmatization
 #### Videos
@@ -29,3 +30,20 @@
 #### Code
 - [Practical Implementation](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
 - [Lemmatization different approaches](https://www.geeksforgeeks.org/python-lemmatization-approaches-with-examples/)
+
+---
+
+### Bag Of Words
+#### Videos
+- [Krish Naik](https://www.youtube.com/watch?v=iu2-G_5YkEo&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=7&ab_channel=KrishNaik)
+
+#### Articles
+- [MachineLearningMastery](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+- [Medium article](https://towardsdatascience.com/a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971)
+
+#### Code
+- [Implementation (sklearn + nltk)](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Bag-of-Words.ipynb) 
+
+---
+
+### TF-IDF 
