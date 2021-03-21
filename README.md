@@ -1,5 +1,5 @@
 # Natural Language Processing (from scratch to GPT-3)
-
+#### Note: This repo is still work in progress. If you want to learn NLP,just start from the first point and go on till the bottom. Everything is hierarchical
 ## Basic stuff 
 #### Cosine Similarity
 - [Cosine Similarity vs Euclidean distance](https://cmry.github.io/notes/euclidean-v-cosine)
@@ -9,7 +9,7 @@
 ## Text Processing
 
 ### Tokenization
-- [A comprehensive article on tokanization](https://blog.floydhub.com/tokenization-nlp/)
+- [A comprehensive article on tokenization](https://blog.floydhub.com/tokenization-nlp/)
 - [Subword Tokenization](https://www.thoughtvector.io/blog/subword-tokenization/)
 - [Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 - [Byte Pair Encoding - Paper](https://arxiv.org/pdf/1508.07909v5.pdf)
@@ -63,3 +63,15 @@
 ### SpamClassifier Project
 - [Video](https://www.youtube.com/watch?v=fA5TSFELkC0&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=11)
 - [Code](https://github.com/Gladiator07/Natural-Language-Processing/tree/main/Basics/mini-projects/Spam-Classifier)
+
+--- 
+#### Great, after implementing a basic project it's time to get a bit mathematical
+
+#### Watch the first lecture of the most sought after course of NLP (CS224N by Stanford)
+### CS224N Lecture-1
+- [CS224n - Lecture-1 ==> Introduction and Word vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1&ab_channel=stanfordonline)
+- [Slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture01-wordvecs1.pdf)
+- [Notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
+#### Suggested Readings
+- [Efficient Estimation of Word Representations in Vector space - original word2vec paper](https://arxiv.org/pdf/1301.3781.pdf)
+- [Distributed Representations of Words and Phrases and their Compositonality - negative sampling paper](https://arxiv.org/pdf/1301.3781.pdf)
