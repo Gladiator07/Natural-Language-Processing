@@ -62,4 +62,4 @@
 
 ### SpamClassifier Project
 - [Video](https://www.youtube.com/watch?v=fA5TSFELkC0&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=11)
-- [Code]()
+- [Code](https://github.com/Gladiator07/Natural-Language-Processing/tree/main/Basics/mini-projects/Spam-Classifier)
