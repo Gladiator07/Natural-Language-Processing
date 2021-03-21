@@ -1,5 +1,7 @@
 # Natural Language Processing (from scratch to GPT-3)
-#### Note: This repo is still work in progress. If you want to learn NLP,just start from the first point and go on till the bottom. Everything is hierarchical
+#### Note: This repo is still work in progress. If you want to learn NLP, just start from the first point and go on till the bottom. Everything is hierarchically arranged (from basic concepts to advanced)
+---
+
 ## Basic stuff 
 #### Cosine Similarity
 - [Cosine Similarity vs Euclidean distance](https://cmry.github.io/notes/euclidean-v-cosine)
