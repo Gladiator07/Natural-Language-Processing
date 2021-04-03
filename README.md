@@ -67,9 +67,9 @@
 - [Code](https://github.com/Gladiator07/Natural-Language-Processing/tree/main/Basics/mini-projects/Spam-Classifier)
 
 --- 
-#### Great, after implementing a basic project it's time to get a bit mathematical
+Great, after implementing a basic project it's time to get a bit mathematical
 
-#### Watch the first lecture of the most sought after course of NLP (CS224N by Stanford)
+Watch the first lecture of the most sought after course of NLP (CS224N by Stanford)
 ### CS224N Lecture-1
 - [CS224n - Lecture-1 ==> Introduction and Word vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1&ab_channel=stanfordonline)
 - [Slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture01-wordvecs1.pdf)
@@ -77,3 +77,7 @@
 #### Suggested Readings
 - [Efficient Estimation of Word Representations in Vector space - original word2vec paper](https://arxiv.org/pdf/1301.3781.pdf)
 - [Distributed Representations of Words and Phrases and their Compositonality - negative sampling paper](https://arxiv.org/pdf/1301.3781.pdf)
+
+### Word2Vec
+After watching above lecture and going through the suggested readings (Stanford CS224N), let's understand more about word2vec
+- [Jay Alammar Blog - detailed](https://jalammar.github.io/illustrated-word2vec/)
