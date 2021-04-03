@@ -5,7 +5,7 @@
 ## Basic stuff 
 #### Cosine Similarity
 - [Cosine Similarity vs Euclidean distance](https://cmry.github.io/notes/euclidean-v-cosine)
-
+- [Probability vs Likelihood](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability)
 ---
 
 ## Text Processing
