@@ -81,3 +81,7 @@ Watch the first lecture of the most sought after course of NLP (CS224N by Stanfo
 ### Word2Vec
 After watching above lecture and going through the suggested readings (Stanford CS224N), let's understand more about word2vec
 - [Jay Alammar Blog - detailed](https://jalammar.github.io/illustrated-word2vec/)
+  
+#### Code
+- [Word2Vec detailed implementation](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Word2vec/w2v.ipynb)
+- [Gensim Word2vec docs](https://radimrehurek.com/gensim/models/word2vec.html)
