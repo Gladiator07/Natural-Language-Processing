@@ -85,3 +85,9 @@ After watching above lecture and going through the suggested readings (Stanford 
 #### Code
 - [Word2Vec detailed implementation](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Word2vec/w2v.ipynb)
 - [Gensim Word2vec docs](https://radimrehurek.com/gensim/models/word2vec.html)
+
+Great, now it's time to do one more projects to solidify the concepts learnt so far
+
+#### Predict Stock Price Movement Based on News Headlines
+- [Jupyter Notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/mini-projects/stock_sentiment_analysis/stock_sentiment_analysis.ipynb)
+
