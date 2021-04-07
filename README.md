@@ -83,7 +83,7 @@ After watching above lecture and going through the suggested readings (Stanford 
 - [Jay Alammar Blog - detailed](https://jalammar.github.io/illustrated-word2vec/)
   
 #### Code
-- [Word2Vec detailed implementation](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Word2vec/w2v.ipynb)
+- [Word2Vec detailed implementation](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Word2vec/w2v.ipynb)
 - [Gensim Word2vec docs](https://radimrehurek.com/gensim/models/word2vec.html)
 
 Great, now it's time to do one more projects to solidify the concepts learnt so far
@@ -95,4 +95,4 @@ We have been seeing word embeddings applied in NLP to get the vector representat
 But now let's try them on tabular dataset with categorical features. We will convert the categorical features in word embeddings rather than traditional approaches like one-hot encoding, label encoding, etc.
 
 ### Word Embeddings for Categorical Features
-- [Code]()
+- [Code](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Word2vec/Categorical_Embeddings.ipynb)
