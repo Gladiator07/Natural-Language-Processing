@@ -86,13 +86,20 @@ After watching above lecture and going through the suggested readings (Stanford 
 - [Word2Vec detailed implementation](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Word2vec/w2v.ipynb)
 - [Gensim Word2vec docs](https://radimrehurek.com/gensim/models/word2vec.html)
 
+<<<<<<< HEAD
 Great, now time to do 2 projects using Machine Learning algorithms, to concretize the ideas we have learned so far
+=======
+Great, now it's time to do one more projects to solidify the concepts learnt so far
+>>>>>>> 7c285da367e2684354a27ba631a7b2688fe03ade
 
 #### Predict Stock Price Movement Based on News Headlines
 - [Jupyter Notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/mini-projects/stock_sentiment_analysis/stock_sentiment_analysis.ipynb)
 
+<<<<<<< HEAD
 We have been seeing word embeddings applied in NLP to get the vector representation of the words.
 But now let's try them on tabular dataset with categorical features. We will convert the categorical features in word embeddings rather than traditional approaches like one-hot encoding, label encoding, etc.
 
 ### Word Embeddings for Categorical Features
 - [Code]()
+=======
+>>>>>>> 7c285da367e2684354a27ba631a7b2688fe03ade
