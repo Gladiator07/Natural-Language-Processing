@@ -2,6 +2,7 @@ from __future__ import unicode_literals, print_function, division
 from io import open
 import glob
 import os
+import torch
 
 def findFiles(path): return glob.glob(path)
 
@@ -47,6 +48,37 @@ for filename in findFiles('data/names/*.txt'):
     lines = readLines(filename)
     category_lines[category] = lines
 
-    
-print(all_categories)
+
+# print(all_categories)
 n_categories = len(all_categories)
+
+# print(category_lines['Italian'][:5])
+
+def letterToIndex(letter):
+    """
+    Find letter index from all_letters, e.g. "a"=0
+    """
+    return all_letters.find(letter)
+
+def letterToTensor(letter):
+    """
+    Just for demonstration
+    Turn a letter to <1 x n_letters> Tensor
+    """
+    tensor = torch.zeros(1, n_letters)
+    tensor[0][letterToIndex(letter)] = 1
+    return tensor
+
+def lineToTensor(line):
+    """
+    Turn a line into <line_length x 1 x n_letters>,
+    or an array of one-hot letter vectors
+    """
+    tensor = torch.zeros(len(line), 1, n_letters)
+    for li, letter in enumerate(line):
+        tensor[li][0][letterToIndex(letter)] = 1
+    return tensor
+
+# print(letterToTensor('A'))
+
+# print(lineToTensor('Atharva').size())
