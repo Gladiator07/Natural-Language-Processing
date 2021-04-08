@@ -78,6 +78,8 @@ Watch the first lecture of the most sought after course of NLP (CS224N by Stanfo
 - [Efficient Estimation of Word Representations in Vector space - original word2vec paper](https://arxiv.org/pdf/1301.3781.pdf)
 - [Distributed Representations of Words and Phrases and their Compositonality - negative sampling paper](https://arxiv.org/pdf/1301.3781.pdf)
 
+---
+
 ### Word2Vec
 After watching above lecture and going through the suggested readings (Stanford CS224N), let's understand more about word2vec
 - [Jay Alammar Blog - detailed](https://jalammar.github.io/illustrated-word2vec/)
@@ -86,13 +88,48 @@ After watching above lecture and going through the suggested readings (Stanford 
 - [Word2Vec detailed implementation](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Word2vec/w2v.ipynb)
 - [Gensim Word2vec docs](https://radimrehurek.com/gensim/models/word2vec.html)
 
+---
+
 Great, now it's time to do one more projects to solidify the concepts learnt so far
 
 #### Predict Stock Price Movement Based on News Headlines
 - [Jupyter Notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/mini-projects/stock_sentiment_analysis/stock_sentiment_analysis.ipynb)
 
+---
+
+### More about Word Embeddings (CS224N - Lecture-2)
+
+- [Lecture Video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&t=3685s&ab_channel=stanfordonline)
+- [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture02-wordvecs2.pdf)
+- [Notes](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf)
+
+**Suggested Readings**
+- [GloVe: Global Vectors for Word Representation (original GloVe paper)](https://nlp.stanford.edu/pubs/glove.pdf)
+- [Improving Distributional Similarity with Lessons Learned from Word Embeddings](https://nlp.stanford.edu/pubs/glove.pdf)
+- [Evaluation methods for unsupervised word embeddings](www.aclweb.org/anthology/D15-1036)
+
+
+
+**Additional Readings**
+- [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320)
+- [On the Dimensionality of Word Embedding](https://papers.nips.cc/paper/2018/file/b534ba68236ba543ae44b22bd110a1d6-Paper.pdf)
+- [A Latent Variable Model Approach to PMI-based Word Embeddings](https://www.aclweb.org/anthology/Q16-1028/)
+  
+---
 We have been seeing word embeddings applied in NLP to get the vector representation of the words.
 But now let's try them on tabular dataset with categorical features. We will convert the categorical features in word embeddings rather than traditional approaches like one-hot encoding, label encoding, etc.
-
 ### Word Embeddings for Categorical Features
 - [Code](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Word2vec/Categorical_Embeddings.ipynb)
+
+---
+
+Let's now move on to the deep learning part of NLP.
+
+### Refresher on Neural Networks
+
+
+### RNN
+
+#### Videos
+- [RNN-Intro (Krish Naik)](https://www.youtube.com/watch?v=CPl9XdIFbYA)
+- [RNN-Forward Prop](https://www.youtube.com/watch?v=u8utlK_c5C8)
