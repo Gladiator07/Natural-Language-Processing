@@ -149,6 +149,11 @@ Let's now move on to the deep learning part of NLP.
 
 ### RNN
 
+This material will get you started with RNN
 #### Videos
 - [RNN-Intro (Krish Naik)](https://www.youtube.com/watch?v=CPl9XdIFbYA)
 - [RNN-Forward Prop](https://www.youtube.com/watch?v=u8utlK_c5C8)
+- [RNN-Backward Prop](https://www.youtube.com/watch?v=6EXP2-d_xQA&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=18)
+
+#### Articles
+- [Visual Intuition of RNNs](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
