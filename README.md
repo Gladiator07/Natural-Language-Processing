@@ -1,5 +1,5 @@
 # Natural Language Processing (from scratch to GPT-3)
-#### Note: This repo is still work in progress. If you want to learn NLP, just start from the first point and go on till the bottom. Everything is hierarchically arranged (from basic concepts to advanced)
+#### Note: This repo is updated regularly as I learn. If you want to learn NLP, just start from the first point and go on till the bottom. Everything is hierarchically arranged (from basic concepts to advanced)
 ---
 
 ## Basic stuff 
@@ -125,7 +125,26 @@ But now let's try them on tabular dataset with categorical features. We will con
 
 Let's now move on to the deep learning part of NLP.
 
-### Refresher on Neural Networks
+## Refresher on Neural Networks
+### CS224N - Lecture-3 & 4 (Neural Networks and Backpropagation)
+
+- [Lecture-3](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)
+- [Lecture-4](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4&ab_channel=stanfordonline)
+- [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture03-neuralnets.pdf)
+- [Notes](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf)
+
+**Suggested Readings**
+- [Matrix Calculus Notes](https://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf)
+- [Review of differential calculus](https://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf)
+- [CS231N notes on network architecture](https://cs231n.github.io/optimization-2/)
+- [CS231N notes on backprop](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+- [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+- [Learning representations by back-propagating errors](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+
+**Additional Readings**
+- [Yes you should understand backprop](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+- [Natural Language Processing (Almost) from Scratch](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+  
 
 
 ### RNN
