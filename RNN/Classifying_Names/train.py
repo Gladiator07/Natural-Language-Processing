@@ -13,16 +13,17 @@ learning_rate = 0.005 # If you set this too high, it might explode. If too low, 
 
 def categoryFromOutput(output):
     top_n, top_i = output.topk(1)
+    category_i = top_i[0][0]
     return all_categories[category_i], category_i
 
-def randomChoice(1):
-    return 1[random.randint(0, len(1) - 1)]
+def randomChoice(l):
+    return l[random.randint(0, len(l) - 1)]
 
 def randomTrainingPair():
     category = randomChoice(all_categories)
     line = randomChoice(category_lines[category])
-    category_tensor = torch.tensor([all_categories.index(category)], dtype=torch.long)
-    line_tensor = lineToTensor(line)
+    category_tensor = Variable(torch.LongTensor([all_categories.index(category)]))
+    line_tensor = Variable(lineToTensor(line))
     return category, line, category_tensor, line_tensor
 
 rnn = RNN(n_letters, n_hidden, n_categories)
@@ -41,7 +42,7 @@ def train(category_tensor, line_tensor):
 
     optimizer.step()
 
-    return output, loss.data[0]
+    return output, loss.item()
 
 # keep track of losses
 current_loss = 0
