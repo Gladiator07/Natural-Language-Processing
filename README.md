@@ -157,3 +157,15 @@ This material will get you started with RNN
 
 #### Articles
 - [Visual Intuition of RNNs](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+
+
+### LSTM
+
+### Videos
+- [Krish Naik](https://www.youtube.com/watch?v=rdkIOM78ZPk&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=19&ab_channel=KrishNaik)
+- [Visual Interpretation](https://www.youtube.com/watch?v=8HyCNIVRbSU)
+  
+### Articles
+- [Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [An illustrated guide to LSTM's and GRU's](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- 
