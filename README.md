@@ -161,11 +161,20 @@ This material will get you started with RNN
 
 ### LSTM
 
-### Videos
+#### Videos
 - [Krish Naik](https://www.youtube.com/watch?v=rdkIOM78ZPk&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=19&ab_channel=KrishNaik)
 - [Visual Interpretation](https://www.youtube.com/watch?v=8HyCNIVRbSU)
   
-### Articles
+#### Articles
 - [Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [An illustrated guide to LSTM's and GRU's](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
-- 
+  
+#### Code
+
+
+### Bidirectional RNN
+
+#### Videos
+- [B-RNN (overview) - Krish Naik](https://www.youtube.com/watch?v=D-a6dwXzJ6s&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=24&ab_channel=KrishNaik)
+
+#### Articles
