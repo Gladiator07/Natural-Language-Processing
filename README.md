@@ -158,6 +158,9 @@ This material will get you started with RNN
 #### Articles
 - [Visual Intuition of RNNs](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
 
+#### Code
+- [RNN from scratch in PyTorch](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/RNN/RNN-from-scratch.ipynb)
+- [PyTorch RNN example](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/RNN/PyTorch_RNN.ipynb)
 
 ### LSTM
 
