@@ -184,4 +184,6 @@ This material will get you started with RNN
 
 #### Articles
 - [Bi-Directional RNN - Paperspace Blog](https://blog.paperspace.com/bidirectional-rnn-keras/)
-- 
+
+#### Code
+- [Generating Baby names with Bidirectional-RNN](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/LSTM/text_generator_charachter_level_LSTM.ipynb)
