@@ -172,6 +172,7 @@ This material will get you started with RNN
 #### Articles
 - [Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [An illustrated guide to LSTM's and GRU's](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Animated RNN, LSTM, GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)  
   
 #### Code
 
@@ -182,3 +183,5 @@ This material will get you started with RNN
 - [B-RNN (overview) - Krish Naik](https://www.youtube.com/watch?v=D-a6dwXzJ6s&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=24&ab_channel=KrishNaik)
 
 #### Articles
+- [Bi-Directional RNN - Paperspace Blog](https://blog.paperspace.com/bidirectional-rnn-keras/)
+- 
