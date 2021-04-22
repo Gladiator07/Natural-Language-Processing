@@ -101,7 +101,7 @@ class Encoder(nn.Module):
 
 class Decoder(nn.Module):
     def __init__(self, output_dim, emb_dim, hid_dim, dropout):
-        super().__init__()()
+        super().__init__()
 
         self.hid_dim = hid_dim
         self.output_dim = output_dim
@@ -269,7 +269,10 @@ def train(model, iterator, optimizer, criterion, clip):
 
         # trg = [trg len, batch size]
         # output = [trg len, batch size, output dim]
+        output_dim = output.shape[-1]
 
+        output = output[1:].view(-1, output_dim)
+        trg = trg[1:].view(-1)
         loss = criterion(output, trg)
 
         loss.backward()
