@@ -187,3 +187,19 @@ This material will get you started with RNN
 
 #### Code
 - [Generating Baby names with Bidirectional-RNN](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/LSTM/text_generator_charachter_level_LSTM.ipynb)
+
+
+### Sequence to Sequence Learning 
+
+- Will add resources here soon (forgot to add while learning :( )
+
+
+### Attention Mechanism
+
+#### Articles
+- [Seq to Seq Models with Attention - Jay Alammar](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [Attention in detail](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+
+#### Code
+- [FloydHub Article](https://blog.floydhub.com/attention-mechanism/)
+- [PyTorch tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
