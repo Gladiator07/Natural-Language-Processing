@@ -208,3 +208,8 @@ This material will get you started with RNN
 - [PyTorch tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 ---
+
+### Transformers
+
+#### Articles
+- [Jay Alammar Blog](https://jalammar.github.io/illustrated-transformer/)
