@@ -213,3 +213,6 @@ This material will get you started with RNN
 
 #### Articles
 - [Jay Alammar Blog](https://jalammar.github.io/illustrated-transformer/)
+
+#### Videos
+- [Illutstrated Guide to Transformers](https://www.youtube.com/watch?v=4Bdc55j80l8)
