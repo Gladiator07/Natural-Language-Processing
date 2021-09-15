@@ -11,7 +11,7 @@
 ## Text Processing
 
 ### Tokenization
-- [A comprehensive article on tokenization](https://blog.floydhub.com/tokenization-nlp/)
+- [A comprehensive article on tokenization (covers subword tokenization, Byte Pair Encoding, Unigram Subword Tokenization, WordPiece, SentencePiece)](https://blog.floydhub.com/tokenization-nlp/)
 - [Subword Tokenization](https://www.thoughtvector.io/blog/subword-tokenization/)
 - [Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 - [Byte Pair Encoding - Paper](https://arxiv.org/pdf/1508.07909v5.pdf)
