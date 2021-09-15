@@ -16,6 +16,7 @@
 - [Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 - [Byte Pair Encoding - Wikipedia (simplest explanation)](https://en.wikipedia.org/wiki/Byte_pair_encoding)
 - [Byte Pair Encoding - Paper](https://arxiv.org/pdf/1508.07909v5.pdf)
+- [Byte Pair Encoding (video) - Abhishek Thakur](https://www.youtube.com/watch?v=zjaRNfvNMTs)
 - [Comprehensive notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Tokenization.ipynb)
 
 ---
