@@ -19,6 +19,12 @@
 - [Byte Pair Encoding (video) - Abhishek Thakur](https://www.youtube.com/watch?v=zjaRNfvNMTs)
 - [Comprehensive notebook](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/Basics/Text-Preprocessing/Tokenization.ipynb)
 
+### Spacy
+Spacy comes really handy to perform NLP tasks at state-of-the-art computation speeds. Here are some tutorials to get familiar with it
+- [Overview of Spacy Library](https://www.analyticsvidhya.com/blog/2020/03/spacy-tutorial-learn-natural-language-processing/)
+- [Comprehensive Tutorial on Spacy](https://www.machinelearningplus.com/spacy-tutorial-nlp/)
+- []
+
 ---
 
 ### Stemming and Lemmatization
