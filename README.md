@@ -165,7 +165,8 @@ This material will get you started with RNN
 
 #### Articles
 - [Visual Intuition of RNNs](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
-- [Intuitive explanation of RNN - personal favorite](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)
+- [Maths behind RNN](https://medium.com/deep-math-machine-learning-ai/chapter-10-deepnlp-recurrent-neural-networks-with-math-c4a6846a50a2)
+- [Intuitive explanation of RNN - personal favorite](https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/)
 
 #### Code
 - [RNN from scratch in PyTorch](https://github.com/Gladiator07/Natural-Language-Processing/blob/main/RNN/RNN-from-scratch.ipynb)
